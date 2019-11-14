@@ -1,2 +1,3 @@
 ActiveMQTemplate
 ================
+test
